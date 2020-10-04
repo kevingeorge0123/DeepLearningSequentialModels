@@ -1,0 +1,5 @@
+After train-test-split data ,data is normalized using minmaxscaler. Then sequential modeled developed with 19 neuron in first layer, adam optimizer and loss-mse.
+
+Model is fit,loss is plotted
+
+Explained variance score Rsqr is 0.8,
