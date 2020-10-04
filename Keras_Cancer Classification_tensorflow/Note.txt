@@ -1,0 +1,3 @@
+Callback and early stop used with drop outs as val loss is increasing after some point
+
+Cross valid report’s F1 square is 0.99
